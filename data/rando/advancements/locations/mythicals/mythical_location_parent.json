@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Randomized Mythical Locations"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
+        "background": "minecraft:textures/block/gilded_blackstone.png",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "impossible_trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

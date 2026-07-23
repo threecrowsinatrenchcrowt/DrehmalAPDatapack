@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Mysterial3 Checked"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "parent": "rando:locations/relics/mysterial2",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "nbt":"{Mysterial3_Check:1b}"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "rando:locations/replace_placeholder"
+    }
+}

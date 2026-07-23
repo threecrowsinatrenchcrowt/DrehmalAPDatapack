@@ -1,0 +1,3 @@
+execute unless loaded -1285 5 416 run schedule function rando:locations/quest_items/modify_caer_adacia_worry_stone 20t
+execute if loaded -1285 5 416 run data merge entity @e[type=minecraft:glow_item_frame,nbt={TileX:-1285,TileY:5,TileZ:416},limit=1] {Item:{id:"minecraft:nether_star", Count:1b, tag:{Caer_Adacia_Worry_Stone_Check:1b, Placeholder:1b,display:{Lore:['{"text":"If this isn\'t replaced"}','{"text":"by a random item when"}','{"text":"added to your inventory, then"}','{"text":"something\'s gone wrong."}'],Name:'[{"text":"Random Item","italic":"false","color":"light_purple","underlined":"true"}]'}}}}
+execute if loaded -1285 5 416 run forceload remove -1285 416

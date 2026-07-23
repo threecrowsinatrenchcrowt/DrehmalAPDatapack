@@ -1,0 +1,1 @@
+clear @a nether_star{Placeholder:1b} 1

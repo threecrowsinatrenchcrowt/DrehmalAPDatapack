@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "Peace_Treaty Checked"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "nbt":"{Peace_Treaty_Check:1b}"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "rando:locations/replace_placeholder"
+    }
+}

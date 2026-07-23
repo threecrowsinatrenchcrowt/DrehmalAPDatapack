@@ -1,0 +1,19 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:nether_star",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Calamity_Check:1b, Placeholder:1b,display:{Lore:['{\"text\":\"If this is not replaced\"}','{\"text\":\"by a random item when\"}','{\"text\":\"added to your inventory, then\"}','{\"text\":\"something has gone wrong.\"}'],Name:'[{\"text\":\"Random Item\",\"italic\":false,\"color\":\"light_purple\",\"underlined\":true}]'}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

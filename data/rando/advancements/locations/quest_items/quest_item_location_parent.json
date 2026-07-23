@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Randomized Quest Item Locations"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
+        "frame": "task",
+        "background": "minecraft:textures/block/end_stone.png",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "impossible_trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

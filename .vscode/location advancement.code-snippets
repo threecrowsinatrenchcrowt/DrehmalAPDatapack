@@ -1,0 +1,76 @@
+{
+	// Place your hi_drehmal_rando workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	//
+	// You can also restrict snippets to specific files using include/exclude patterns:
+	// "Test snippet": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "test",
+	// 	"body": "test('$1', () => {\n\t$0\n});",
+	// 	"include": ["**/*.test.ts", "*.spec.ts"],
+	// 	"exclude": ["**/temp/*.ts"],
+	// 	"description": "Insert test block"
+	// }
+	"": {
+		"prefix": "locadv",
+		"body": [
+			"{",
+			"    \"display\": {",
+			"        \"title\": {",
+			"            \"text\": \"$1 Checked\"",
+			"        },",
+			"        \"description\": {",
+			"            \"text\": \"\"",
+			"        },",
+			"        \"icon\": {",
+			"            \"item\": \"minecraft:nether_star\"",
+			"        },",
+			"        \"frame\": \"task\",",
+			"        \"show_toast\": false,",
+			"        \"announce_to_chat\": false,",
+			"        \"hidden\": true",
+			"    },",
+			"    \"parent\": \"rando:locations/quest_items/quest_item_location_parent\",",
+			"    \"criteria\": {",
+			"        \"requirement\": {",
+			"            \"trigger\": \"minecraft:inventory_changed\",",
+			"            \"conditions\": {",
+			"                \"items\": [",
+			"                    {",
+			"                        \"nbt\":\"{$1_Check:1b}\"",
+			"                    }",
+			"                ]",
+			"            }",
+			"        }",
+			"    },",
+			"    \"rewards\": {",
+			"        \"function\": \"rando:locations/replace_placeholder\"",
+			"    }",
+			"}"
+		],
+		"description": ""
+	},
+	"2": {
+		"prefix": "regcheck",
+		"body": [
+			"# Modified for Terminus tower randomizer",
+			"execute if score #terminus_towers rando_pools matches 0 if score $1 towers matches 0 run function terminus:unlock_tower/$1_unlock",
+			"execute if score #terminus_towers rando_pools matches 1 run advancement grant @s only rando:locations/terminus_towers/$1_tower"
+		],
+		"description": ""
+	}
+}

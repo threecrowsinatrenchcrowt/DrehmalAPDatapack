@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Mortality2 Checked"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "parent": "rando:locations/relics/mortality1",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "nbt":"{Mortality2_Check:1b}"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "rando:locations/replace_placeholder"
+    }
+}

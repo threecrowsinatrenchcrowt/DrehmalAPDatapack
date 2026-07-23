@@ -1,0 +1,7 @@
+tellraw @s {"text":"Your faith shall be rewarded.","color":"gold","italic":true}
+tag @s add virtuo.6
+playsound minecraft:dcustom.ui.toast.challenge_complete ambient @s ~ ~ ~ 1 1.25
+
+# Modified for relic randomizer
+execute if score #relics rando_pools matches 1 run advancement grant @s only rando:locations/relics/purifying_light2
+execute unless score #relics rando_pools matches 1 run give @s command_block{CustomModelData:1012002,display:{Name:'{"text":"Purifying Light +2","color":"dark_red","italic":false,"underlined":true}',Lore:['{"text":"You have lit a flame that symbolizes your"}','{"text":"devotion to the Goddess of Purity. Its"}','{"text":"candle has grown so large as to require "}','{"text":"a lantern for conveyance. Yet, you feel"}','{"text":"rested and agile when holding it."}','{"text":" "}','{"text":"When in offhand:","color":"gray","italic":false}','{"text":"+0.021 Movement Speed","color":"blue","italic":false}','{"text":" "}','{"text":"Relic","color":"dark_red","italic":false}']},HideFlags:2,AttributeModifiers:[{AttributeName:"generic.movement_speed",Name:"generic.movement_speed",Amount:.021,Operation:0,UUID:[I;-180899671,-1409924425,-1099397937,-1348894385],Slot:"offhand"}]} 1

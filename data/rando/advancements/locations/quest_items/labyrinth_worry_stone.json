@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Labyrinth_Worry_Stone Checked"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "rando:locations/quest_items/quest_item_location_parent",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "nbt":"{Labyrinth_Worry_Stone_Check:1b}"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "rando:locations/replace_placeholder"
+    }
+}

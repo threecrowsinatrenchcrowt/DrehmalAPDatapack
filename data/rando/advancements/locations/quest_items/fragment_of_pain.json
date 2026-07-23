@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Fragment_Of_Pain Checked"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "parent": "rando:locations/quest_items/fragment_of_hate",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "nbt":"{Fragment_Of_Pain_Check:1b}"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "rando:locations/replace_placeholder"
+    }
+}

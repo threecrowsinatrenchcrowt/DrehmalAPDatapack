@@ -1,0 +1,3 @@
+execute unless loaded 1514 180 -1938 run schedule function rando:locations/quest_items/modify_ancehl_agony_stone 20t
+execute if loaded 1514 180 -1938 run data merge entity @e[type=minecraft:item_frame,nbt={TileX:1514,TileY:180,TileZ:-1938},limit=1] {Item:{id:"minecraft:nether_star", Count:1b, tag:{Ancehl_Castle_Agony_Stone_Check:1b, Placeholder:1b,display:{Lore:['{"text":"If this isn\'t replaced"}','{"text":"by a random item when"}','{"text":"added to your inventory, then"}','{"text":"something\'s gone wrong."}'],Name:'[{"text":"Random Item","italic":"false","color":"light_purple","underlined":"true"}]'}}}}
+execute if loaded 1514 180 -1938 run forceload remove 1514 -1938
