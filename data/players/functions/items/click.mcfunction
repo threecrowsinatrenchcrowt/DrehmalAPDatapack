@@ -18,5 +18,6 @@ execute if predicate players:holding/mb as @s run function players:items/click/m
 execute if predicate players:holding/party_cannon run scoreboard players set @s pcannon_charge_c 7
 
 execute if predicate players:holding/terminus_link run function terminus:teleport_from_tower/capital_valley_terminus 
+execute if predicate players:holding/terminus_link run gamerule doDaylightCycle true
 
 scoreboard players reset @s click
