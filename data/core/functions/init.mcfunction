@@ -905,7 +905,7 @@ execute in minecraft:town_reworks run forceload add 1000000 1000000
 execute in minecraft:town_reworks run setblock 1000000 0 1000000 furnace
 
 # Modified for area lock randomizer
-function rando:area_locks/spawn_region_markers
+# function rando:area_locks/spawn_region_markers
 
 bossbar add exec "" 
 function foundry:reset_exec_bar

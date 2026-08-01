@@ -55,10 +55,10 @@ execute in overworld run forceload remove -3068 -692
 
 
 # Loraga Keep Luxury Stone
-execute in overworld run forceload add 6040 1533
-execute in overworld run setblock 6040 63 1533 air replace
-execute in overworld run setblock 6040 63 1533 chest[facing=west]{Items:[{Slot:13b, id:"minecraft:nether_star", Count:1b, tag:{Loraga_Keep_Luxury_Stone_Check:1b, Placeholder:1b,display:{Lore:['{"text":"If this isn\'t replaced"}','{"text":"by a random item when"}','{"text":"added to your inventory, then"}','{"text":"something\'s gone wrong."}'],Name:'[{"text":"Random Item","italic":"false","color":"light_purple","underlined":"true"}]'}}}]} replace
-execute in overworld run forceload remove 6040 1533
+execute in overworld run forceload add -1721 3037
+execute in overworld run setblock -1721 164 3037 air replace
+execute in overworld run setblock -1721 164 3037 chest[facing=west]{Items:[{Slot:13b, id:"minecraft:nether_star", Count:1b, tag:{Loraga_Keep_Luxury_Stone_Check:1b, Placeholder:1b,display:{Lore:['{"text":"If this isn\'t replaced"}','{"text":"by a random item when"}','{"text":"added to your inventory, then"}','{"text":"something\'s gone wrong."}'],Name:'[{"text":"Random Item","italic":"false","color":"light_purple","underlined":"true"}]'}}}]} replace
+execute in overworld run forceload remove -1721 3037
 
 
 # Heartwood Luxury Stone
@@ -75,10 +75,10 @@ execute in overworld run setblock 2871 221 -106 chest[facing=south]{Items:[{Slot
 execute in overworld run forceload remove 2871 -106
 
 # Sal'Veruhkt Luxury Stone
-execute in overworld run forceload add 6040 1533
-execute in overworld run setblock 6040 63 1533 air replace
-execute in overworld run setblock 6040 63 1533 chest[facing=west]{Items:[{Slot:13b, id:"minecraft:nether_star", Count:1b, tag:{Sal_Veruhkt_Luxury_Stone_Check:1b, Placeholder:1b,display:{Lore:['{"text":"If this isn\'t replaced"}','{"text":"by a random item when"}','{"text":"added to your inventory, then"}','{"text":"something\'s gone wrong."}'],Name:'[{"text":"Random Item","italic":"false","color":"light_purple","underlined":"true"}]'}}}]} replace
-execute in overworld run forceload remove 6040 1533
+execute in overworld run forceload add 3618 -1376
+execute in overworld run setblock 3618 85 -1376 air replace
+execute in overworld run setblock 3618 85 -1376 chest[facing=west]{Items:[{Slot:13b, id:"minecraft:nether_star", Count:1b, tag:{Sal_Veruhkt_Luxury_Stone_Check:1b, Placeholder:1b,display:{Lore:['{"text":"If this isn\'t replaced"}','{"text":"by a random item when"}','{"text":"added to your inventory, then"}','{"text":"something\'s gone wrong."}'],Name:'[{"text":"Random Item","italic":"false","color":"light_purple","underlined":"true"}]'}}}]} replace
+execute in overworld run forceload remove 3618 -1376
 
 # Tall Tower Worry Stone
 execute in overworld run forceload add -3954 3561
@@ -95,7 +95,7 @@ execute in overworld run forceload remove 1169 3903
 # Labyrinth Worry Stone
 execute in overworld run forceload add 1691 -4171
 execute in overworld run setblock 1691 15 -4171 air replace
-execute in overworld run setblock 1691 15 -4171 chest[facing=west]{Items:[{Slot:13b, id:"minecraft:nether_star", Count:1b, tag:{Labryinth_Worry_Stone_Check:1b, Placeholder:1b,display:{Lore:['{"text":"If this isn\'t replaced"}','{"text":"by a random item when"}','{"text":"added to your inventory, then"}','{"text":"something\'s gone wrong."}'],Name:'[{"text":"Random Item","italic":"false","color":"light_purple","underlined":"true"}]'}}}]} replace
+execute in overworld run setblock 1691 15 -4171 chest[facing=west]{Items:[{Slot:13b, id:"minecraft:nether_star", Count:1b, tag:{Labyrinth_Worry_Stone_Check:1b, Placeholder:1b,display:{Lore:['{"text":"If this isn\'t replaced"}','{"text":"by a random item when"}','{"text":"added to your inventory, then"}','{"text":"something\'s gone wrong."}'],Name:'[{"text":"Random Item","italic":"false","color":"light_purple","underlined":"true"}]'}}}]} replace
 execute in overworld run forceload remove 1691 -4171
 
 # Sahd Worry Stone

@@ -10,7 +10,7 @@
             "item": "minecraft:nether_star"
         },
         "frame": "task",
-        "background": "minecraft:textures/block/purpur_pilllar.png",
+        "background": "minecraft:textures/block/purpur_pillar.png",
         "show_toast": false,
         "announce_to_chat": false,
         "hidden": false

@@ -14,6 +14,7 @@
         "announce_to_chat": false,
         "hidden": false
     },
+    "parent": "rando:locations/legendaries/legendary_location_parent",
     "criteria": {
         "requirement": {
             "trigger": "minecraft:inventory_changed",
