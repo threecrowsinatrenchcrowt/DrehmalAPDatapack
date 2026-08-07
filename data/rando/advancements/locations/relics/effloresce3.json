@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Effloresce3 Checked"
+            "text": "Effloresce +3 Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the final tier of Drehmal's devotion relic"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1002003}"
         },
         "frame": "task",
         "show_toast": false,

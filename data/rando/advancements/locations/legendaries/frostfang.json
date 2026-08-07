@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Frostfang Checked"
+            "text": "The Frostfang Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Frostfang at 2291, 40, -2959 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:squid_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

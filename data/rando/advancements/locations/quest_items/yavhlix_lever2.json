@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Yavhlix_Lever2 Checked"
+            "text": "Yavhlix Lever 2 Checked"
         },
         "description": {
-            "text": ""
+            "text": "Activated the Yavhlix Override at 26901, 75, -102 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:lever"
         },
         "frame": "task",
         "show_toast": false,

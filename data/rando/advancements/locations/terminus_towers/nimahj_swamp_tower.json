@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Nimahj_Swamp_Tower Checked"
+            "text": "Nimahj Swamp Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Nimahj Swamp Tower at -2244, 214, 2011 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:lily_pad"
         },
         "frame": "task",
         "show_toast": false,

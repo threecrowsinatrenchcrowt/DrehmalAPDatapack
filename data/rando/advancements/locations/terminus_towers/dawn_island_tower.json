@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Dawn_Island_Tower Checked"
+            "text": "Island of Dawn Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Island of Dawn Tower at -1006, 136, -4034 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:purple_terracotta"
         },
         "frame": "task",
         "show_toast": false,

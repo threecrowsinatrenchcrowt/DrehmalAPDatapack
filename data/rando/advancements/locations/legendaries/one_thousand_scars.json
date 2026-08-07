@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "One_Thousand_Scars Checked"
+            "text": "One Thousand Scars Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary One Thousand Scars at 2541, 48, 2154 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:parrot_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

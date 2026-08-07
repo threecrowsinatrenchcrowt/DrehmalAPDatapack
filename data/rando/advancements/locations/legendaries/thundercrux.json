@@ -4,10 +4,10 @@
             "text": "Thundercrux Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Thundercrux at 455, 148, 457 on Lo'Dahr"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:evoker_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

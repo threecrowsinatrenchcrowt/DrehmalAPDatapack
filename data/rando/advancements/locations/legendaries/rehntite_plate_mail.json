@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Rehntite_Plate_Mail Checked"
+            "text": "Rehntite Plate Mail Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Rehntite Plate Mail at 1683, 31, -2720 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:horse_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

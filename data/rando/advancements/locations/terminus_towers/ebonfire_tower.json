@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Ebonfire_Tower Checked"
+            "text": "Mt. Ebonfire Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Mt. Ebonfire Tower at -2846, 179, 213 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:gray_concrete_powder"
         },
         "frame": "task",
         "show_toast": false,

@@ -4,10 +4,10 @@
             "text": "Orchidaceae Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Orchidaceae at 1477, 101, -1956 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:trader_llama_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

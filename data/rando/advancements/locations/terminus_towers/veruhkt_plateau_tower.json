@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Veruhkt_Plateau_Tower Checked"
+            "text": "Veruhkt Plateau Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Veruhkt Plateau Tower at 3953, 245, -1881 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:podzol"
         },
         "frame": "task",
         "show_toast": false,

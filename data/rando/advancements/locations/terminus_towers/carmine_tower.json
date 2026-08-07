@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Carmine_Tower Checked"
+            "text": "Carmine Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Carmine Tower at -2561, 146, 4838 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:red_concrete_powder"
         },
         "frame": "task",
         "show_toast": false,

@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Nihilists_Notes Checked"
+            "text": "Nihilist's Notes Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the Nihilist's Notes at 5821, 76, -2983 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:paper",
+            "nbt": "{display:{Name:'{\"text\":\"Nihilist\\'s Notes\",\"color\":\"gold\",\"italic\":false,\"underlined\":true}'}}"
         },
         "frame": "task",
         "show_toast": false,

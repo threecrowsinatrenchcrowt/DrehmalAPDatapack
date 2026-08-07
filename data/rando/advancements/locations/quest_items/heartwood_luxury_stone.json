@@ -1,20 +1,21 @@
 {
     "display": {
         "title": {
-            "text": "Heartwood_Luxury_Stone Checked"
+            "text": "Heartwood Luxury Stone Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the Stone of Luxury at 1669, 67, 1727 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1000021}"
         },
         "frame": "task",
         "show_toast": false,
         "announce_to_chat": false,
         "hidden": false
     },
-    "parent": "rando:locations/quest_items/quest_item_location_parent",
+    "parent": "rando:locations/quest_items/loraga_keep_luxury_stone",
     "criteria": {
         "requirement": {
             "trigger": "minecraft:inventory_changed",

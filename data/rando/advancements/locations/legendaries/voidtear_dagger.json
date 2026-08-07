@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Voidtear_Dagger Checked"
+            "text": "Voidtear Dagger Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Voidtear Dagger at -2652, 38, 2284 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:silverfish_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

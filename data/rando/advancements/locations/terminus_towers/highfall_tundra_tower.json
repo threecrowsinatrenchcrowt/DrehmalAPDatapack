@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Highfall_Tundra_Tower Checked"
+            "text": "Highfall Tundra Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Highfall Tundra Tower at 5423, 154, -1388 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:dirt_path"
         },
         "frame": "task",
         "show_toast": false,

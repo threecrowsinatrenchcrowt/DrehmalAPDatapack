@@ -1,20 +1,21 @@
 {
     "display": {
         "title": {
-            "text": "Caer_Adacia_Worry_Stone Checked"
+            "text": "Caer Adacia Worry Stone Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the Stone of Worry at -1285, 5, 416 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1000022}"
         },
         "frame": "task",
         "show_toast": false,
         "announce_to_chat": false,
         "hidden": false
     },
-    "parent": "rando:locations/quest_items/quest_item_location_parent",
+    "parent": "rando:locations/quest_items/tundra_ruins_worry_stone",
     "criteria": {
         "requirement": {
             "trigger": "minecraft:inventory_changed",

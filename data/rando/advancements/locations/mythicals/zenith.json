@@ -4,10 +4,11 @@
             "text": "Zenith Checked"
         },
         "description": {
-            "text": ""
+            "text": "Conquered the Foundry and claimed Zenith as your rightful reward"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:warped_fungus_on_a_stick",
+            "nbt": "{CustomModelData:2}"
         },
         "frame": "task",
         "show_toast": false,

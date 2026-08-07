@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Writ_Of_Authority3 Checked"
+            "text": "Writ of Authority +3 Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the final tier of Dahr's devotion relic"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1010003}"
         },
         "frame": "task",
         "show_toast": false,

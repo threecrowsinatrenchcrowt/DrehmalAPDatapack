@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Foundry_Luxury_Stone Checked"
+            "text": "Foundry Luxury Stone Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the Stone of Luxury at -3307, 112, 1657 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1000021}"
         },
         "frame": "task",
         "show_toast": false,

@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "North_Tharxax_Tower Checked"
+            "text": "North Tharxax Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the North Tharxax Tower at -1356, 210, 1775 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:diorite"
         },
         "frame": "task",
         "show_toast": false,

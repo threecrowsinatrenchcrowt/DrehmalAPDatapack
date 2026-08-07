@@ -1,13 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Fragment_Of_Wrath Checked"
+            "text": "Fragment of Wrath Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the Fragment of Wrath at 4488, 64, 6540 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:nether_brick",
+            "nbt": "{display:{Name:'{\"text\":\"Fragment of Wrath\",\"color\":\"gold\",\"italic\":false,\"underlined\":true}'}}"
+
         },
         "frame": "task",
         "show_toast": false,

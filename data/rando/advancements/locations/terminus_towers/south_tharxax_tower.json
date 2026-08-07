@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "South_Tharxax_Tower Checked"
+            "text": "South Tharxax Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the South Tharxax Tower at -2453, 94, 3661 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:jungle_wood"
         },
         "frame": "task",
         "show_toast": false,

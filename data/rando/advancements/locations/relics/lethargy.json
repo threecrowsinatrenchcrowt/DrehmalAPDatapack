@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Lethargy Checked"
+            "text": "Mirror of Lethargy Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the second tier of Rihelma's devotion relic"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1004001}"
         },
         "frame": "task",
         "show_toast": false,

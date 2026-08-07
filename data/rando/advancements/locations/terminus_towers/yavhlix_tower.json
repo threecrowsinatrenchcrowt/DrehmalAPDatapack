@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Yavhlix_Tower Checked"
+            "text": "Yavhlix Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from Yavhlix Tower at 26907 128 -70 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:dead_brain_coral_block"
         },
         "frame": "task",
         "show_toast": false,

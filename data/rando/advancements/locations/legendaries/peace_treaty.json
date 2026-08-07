@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Peace_Treaty Checked"
+            "text": "Peace Treaty Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Peace Treaty at 4565, 106, 1587 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:bee_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Tul_Vohaln Checked"
+            "text": "Tul'Vohaln Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Tul'Vohaln at 4098, 108, -1526 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:panda_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

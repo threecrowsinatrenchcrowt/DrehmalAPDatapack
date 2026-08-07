@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Mysterial0 Checked"
+            "text": "Mysterial +0 Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the first tier of Khive's devotion relic"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1005000}"
         },
         "frame": "task",
         "show_toast": false,

@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Heartaxe Checked"
+            "text": "The Heartaxe Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Heartaxe at 974, 68, 2732 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:wolf_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

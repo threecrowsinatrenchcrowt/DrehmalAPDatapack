@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Frozen_Bite_Tower Checked"
+            "text": "Frozen Bite Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Frozen Bite Tower at 5460, 105, -3024 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:snow_block"
         },
         "frame": "task",
         "show_toast": false,

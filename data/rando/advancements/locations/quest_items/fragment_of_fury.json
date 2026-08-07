@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Fragment_Of_Fury Checked"
+            "text": "Fragment of Fury Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the Fragment of Fury at 5493, 93, 5834 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:black_dye",
+            "nbt": "{display:{Name:'{\"text\":\"Fragment of Fury\",\"color\":\"gold\",\"italic\":false,\"underlined\":true}'}}"
         },
         "frame": "task",
         "show_toast": false,

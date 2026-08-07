@@ -4,10 +4,10 @@
             "text": "Calamity Checked"
         },
         "description": {
-            "text": ""
+            "text": "Slew Skull Disciple Ossein and looted Calamity from his corpse"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:cow_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

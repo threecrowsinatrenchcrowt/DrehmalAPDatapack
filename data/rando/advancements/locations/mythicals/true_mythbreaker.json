@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "True_Mythbreaker Checked"
+            "text": "True Mythbreaker Checked"
         },
         "description": {
-            "text": ""
+            "text": "Uncovered Avsohm's final fate and earned the True Mythbreaker"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:magma_cube_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

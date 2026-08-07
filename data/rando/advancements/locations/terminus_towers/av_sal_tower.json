@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Av_Sal_Tower Checked"
+            "text": "Av'Sal Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Av'Sal Tower at -255, 119, 1643 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:cracked_stone_bricks"
         },
         "frame": "task",
         "show_toast": false,

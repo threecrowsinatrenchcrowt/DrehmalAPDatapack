@@ -1,20 +1,21 @@
 {
     "display": {
         "title": {
-            "text": "Giants_Glade_Agony_Stone Checked"
+            "text": "Giant's Glade Agony Stone Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the Stone of Agony at -1005, 73, -347 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1000020}"
         },
         "frame": "task",
         "show_toast": false,
         "announce_to_chat": false,
         "hidden": false
     },
-    "parent": "rando:locations/quest_items/quest_item_location_parent",
+    "parent": "rando:locations/quest_items/coven_of_potentia_agony_stone",
     "criteria": {
         "requirement": {
             "trigger": "minecraft:inventory_changed",

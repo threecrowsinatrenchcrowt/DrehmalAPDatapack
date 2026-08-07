@@ -4,10 +4,10 @@
             "text": "Malevolentia Checked"
         },
         "description": {
-            "text": ""
+            "text": "Snatched Malevolentia from the Burnt Lord's private quarters"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:pig_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Purity_Peaks_Tower Checked"
+            "text": "Purity Peaks Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Purity Peaks Tower at 2040, 114, 609 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:birch_sapling"
         },
         "frame": "task",
         "show_toast": false,

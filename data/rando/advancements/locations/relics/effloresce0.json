@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Effloresce0 Checked"
+            "text": "Effloresce +0 Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the first tier of Drehmal's devotion relic"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1002000}"
         },
         "frame": "task",
         "show_toast": false,

@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Hellcrags_Tower Checked"
+            "text": "Hellcrags Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Hellcrags tower at -4268, 78, 6024 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:netherrack"
         },
         "frame": "task",
         "show_toast": false,

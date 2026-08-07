@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Foundry_Lever2 Checked"
+            "text": "Foundry Lever 2 Checked"
         },
         "description": {
-            "text": ""
+            "text": "Flipped the Foundry switch at -3035, 121, 1186 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:lever"
         },
         "frame": "task",
         "show_toast": false,

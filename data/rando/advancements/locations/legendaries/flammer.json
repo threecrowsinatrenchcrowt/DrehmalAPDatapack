@@ -4,10 +4,10 @@
             "text": "Flammer Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Flammer at -3123, 110, 460 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:chicken_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

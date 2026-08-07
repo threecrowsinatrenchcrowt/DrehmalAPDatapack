@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Avsohm_Kohl Checked"
+            "text": "Avsohm'Kohl Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Avsohm'Kohl at 2587, 229, 1211 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:elytra"
         },
         "frame": "task",
         "show_toast": false,

@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Heartwood_Tower Checked"
+            "text": "North Heartwood Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the North Heartwood Tower at 1706, 232, 2371 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:dark_oak_sapling"
         },
         "frame": "task",
         "show_toast": false,

@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Hovadchears_Greathammer Checked"
+            "text": "Hovadchear's Greathammer Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Hovadchear's Greathammer at 3219, 83, 1743 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:pufferfish_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

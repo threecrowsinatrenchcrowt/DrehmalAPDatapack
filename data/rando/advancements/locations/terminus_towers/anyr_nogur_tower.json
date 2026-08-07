@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Anyr_Nogur_Tower Checked"
+            "text": "Anyr'Nogur Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Anyr'Nogur Tower at -3350, 217, 2233 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:sand"
         },
         "frame": "task",
         "show_toast": false,

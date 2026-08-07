@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Merijool_Tower Checked"
+            "text": "Merijool Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Merijool Tower at -1302, 152, -943 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:terracotta"
         },
         "frame": "task",
         "show_toast": false,

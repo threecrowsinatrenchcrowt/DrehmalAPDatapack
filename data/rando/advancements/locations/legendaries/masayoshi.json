@@ -4,10 +4,10 @@
             "text": "Masayoshi Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Masayoshi at 3735, 26, 3439 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:bat_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Emperor_Anyrs_Scepter Checked"
+            "text": "Emperor Anyr's Scepter Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Emperor Anyr's Scepter at -3437, 133, 2215 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:vex_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

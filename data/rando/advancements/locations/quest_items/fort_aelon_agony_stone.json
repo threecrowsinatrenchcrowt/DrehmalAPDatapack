@@ -1,20 +1,21 @@
 {
     "display": {
         "title": {
-            "text": "Fort_Aelon_Agony_Stone Checked"
+            "text": "Fort Aelon Agony Stone Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the Stone of Agony at 79, 194, -254 on Lo'Dahr"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1000020}"
         },
         "frame": "task",
         "show_toast": false,
         "announce_to_chat": false,
         "hidden": false
     },
-    "parent": "rando:locations/quest_items/quest_item_location_parent",
+    "parent": "rando:locations/quest_items/ancehl_castle_agony_stone",
     "criteria": {
         "requirement": {
             "trigger": "minecraft:inventory_changed",

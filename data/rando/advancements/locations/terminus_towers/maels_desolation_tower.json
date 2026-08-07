@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Maels_Desolation_Tower Checked"
+            "text": "South Heartwood Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the South Heartwood Tower at 1884, 76, 3733 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:dead_bush"
         },
         "frame": "task",
         "show_toast": false,

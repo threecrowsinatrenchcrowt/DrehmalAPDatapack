@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Resplendence1 Checked"
+            "text": "Resplendence +1 Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the second tier of Vayniklah's devotion relic"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1008001}"
         },
         "frame": "task",
         "show_toast": false,

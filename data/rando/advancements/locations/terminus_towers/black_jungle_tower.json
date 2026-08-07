@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Black_Jungle_Tower Checked"
+            "text": "Black Jungle Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Black Jungle Tower at 4428, 154, 3275 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:bamboo"
         },
         "frame": "task",
         "show_toast": false,

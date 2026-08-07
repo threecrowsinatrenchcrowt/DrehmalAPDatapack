@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Faehrcyle_Tower Checked"
+            "text": "Faehrcyle Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Faehrcyle Tower at 2595, 98, -3330 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:blue_ice"
         },
         "frame": "task",
         "show_toast": false,

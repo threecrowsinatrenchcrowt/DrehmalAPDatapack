@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Spearhead_Forest_Tower Checked"
+            "text": "Spearhead Forest Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Spearhead Forest Tower at 4125, 174, 1197 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:spruce_sapling"
         },
         "frame": "task",
         "show_toast": false,

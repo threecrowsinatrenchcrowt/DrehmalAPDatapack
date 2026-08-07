@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Lo_Dahr_Tower Checked"
+            "text": "Lo'Dahr Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Lo'Dahr Tower at 61, 69, -717 on Lo'Dahr"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:amethyst_shard"
         },
         "frame": "task",
         "show_toast": false,

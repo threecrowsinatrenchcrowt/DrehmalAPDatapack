@@ -4,10 +4,10 @@
             "text": "Syzygy Checked"
         },
         "description": {
-            "text": ""
+            "text": "Completed the six trials to be rewarded with Syzygy"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:cod_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

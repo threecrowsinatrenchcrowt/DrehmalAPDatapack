@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Pure_Corruption Checked"
+            "text": "Pure Corruption Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Pure Corruption at 5600, 156, 3011 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:ghast_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

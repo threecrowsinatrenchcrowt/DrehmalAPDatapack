@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Festering_Strides Checked"
+            "text": "Festering Strides Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Festering Strides at 4651, 104, -740 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:tropical_fish_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

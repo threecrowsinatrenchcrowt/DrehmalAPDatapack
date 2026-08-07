@@ -7,7 +7,7 @@
             "text": ""
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:sea_lantern"
         },
         "frame": "task",
         "background": "minecraft:textures/block/chiseled_quartz_block_top.png",

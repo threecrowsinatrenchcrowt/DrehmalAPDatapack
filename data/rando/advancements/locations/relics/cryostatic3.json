@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Cryostatic3 Checked"
+            "text": "Cryostatic +3 Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the final tier of Loe's devotion relic"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1009003}"
         },
         "frame": "task",
         "show_toast": false,

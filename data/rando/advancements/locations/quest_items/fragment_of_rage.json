@@ -1,13 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Fragment_Of_Rage Checked"
+            "text": "Fragment of Rage Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the Fragment of Rage at 4589, 220, 5418 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:gold_nugget",
+            "nbt": "{display:{Name:'{\"text\":\"Fragment of Rage\",\"color\":\"gold\",\"italic\":false,\"underlined\":true}'}}"
+
         },
         "frame": "task",
         "show_toast": false,

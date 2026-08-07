@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Purifying_Light3 Checked"
+            "text": "Purifying Light +3 Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the final tier of Virtuo's devotion relic"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1012003}"
         },
         "frame": "task",
         "show_toast": false,

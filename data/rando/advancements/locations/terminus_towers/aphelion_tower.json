@@ -4,10 +4,10 @@
             "text": "Aphelion_Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Aphelion Tower at -26, 142, 122 in space"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:light_gray_glazed_terracotta"
         },
         "frame": "task",
         "show_toast": false,

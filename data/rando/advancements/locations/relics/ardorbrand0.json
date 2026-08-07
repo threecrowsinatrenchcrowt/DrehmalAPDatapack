@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Ardorbrand0 Checked"
+            "text": "Ardorbrand +0 Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the first tier of Lai's devotion relic"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1001000}"
         },
         "frame": "task",
         "show_toast": false,

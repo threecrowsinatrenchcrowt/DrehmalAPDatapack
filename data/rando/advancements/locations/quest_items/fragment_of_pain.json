@@ -1,13 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Fragment_Of_Pain Checked"
+            "text": "Fragment of Pain Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the Fragment of Pain at 5104, 177, 6323 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:blaze_powder",
+            "nbt": "{display:{Name:'{\"text\":\"Fragment of Pain\",\"color\":\"gold\",\"italic\":false,\"underlined\":true}'}}"
+
         },
         "frame": "task",
         "show_toast": false,

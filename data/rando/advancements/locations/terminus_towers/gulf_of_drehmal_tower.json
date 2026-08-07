@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Gulf_Of_Drehmal_Tower Checked"
+            "text": "Gulf Of Drehmal Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Gulf of Drehmal Tower at 460, 97, -389 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:granite"
         },
         "frame": "task",
         "show_toast": false,

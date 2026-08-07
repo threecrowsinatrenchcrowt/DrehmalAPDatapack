@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Sahd_Tower Checked"
+            "text": "Sahd Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Sahd Tower at 5020, 186, 5626 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:cherry_leaves"
         },
         "frame": "task",
         "show_toast": false,

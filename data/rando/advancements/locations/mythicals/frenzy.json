@@ -4,10 +4,10 @@
             "text": "Frenzy Checked"
         },
         "description": {
-            "text": ""
+            "text": "Reforged Frenzy from the hatred of the Sahd clans"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:ocelot_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

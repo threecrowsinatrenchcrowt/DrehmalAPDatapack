@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Ebony_Veldt_Tower Checked"
+            "text": "Ebony Veldt Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Ebony Veldt tower at -2157, 90, 1126 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:acacia_sapling"
         },
         "frame": "task",
         "show_toast": false,

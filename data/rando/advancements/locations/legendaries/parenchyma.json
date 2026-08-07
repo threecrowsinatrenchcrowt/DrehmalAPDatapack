@@ -4,10 +4,10 @@
             "text": "Parenchyma Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Parenchyma at -1087, 26, -277 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:creeper_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

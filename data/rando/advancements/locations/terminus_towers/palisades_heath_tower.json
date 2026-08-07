@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Palisades_Heath_Tower Checked"
+            "text": "Palisades Heath Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Palisades Heath tower at -155, 101, 2550 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:andesite"
         },
         "frame": "task",
         "show_toast": false,

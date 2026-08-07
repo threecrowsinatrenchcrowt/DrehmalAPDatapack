@@ -7,7 +7,7 @@
             "text": ""
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:trapped_chest"
         },
         "background": "minecraft:textures/block/crying_obsidian.png",
         "frame": "task",

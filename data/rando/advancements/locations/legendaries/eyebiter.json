@@ -4,10 +4,11 @@
             "text": "Eyebiter Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Eyebiter at -2806, 39, 5387 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:shield",
+            "nbt": "{CustomModelData:1}"
         },
         "frame": "task",
         "show_toast": false,

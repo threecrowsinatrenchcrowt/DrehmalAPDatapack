@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Lorahn_Kahl_Tower Checked"
+            "text": "Lorahn'Kahl Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Lorahn'Kahl tower at -1021, 134, 4874.5 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:prismarine"
         },
         "frame": "task",
         "show_toast": false,

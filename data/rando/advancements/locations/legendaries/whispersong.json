@@ -4,10 +4,10 @@
             "text": "Whispersong Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Whispersong at -478, 97, -1889 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:phantom_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

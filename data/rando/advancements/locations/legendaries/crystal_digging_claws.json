@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Crystal_Digging_Claws Checked"
+            "text": "Crystal Digging Claws Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Crystal Digging Claws at -1874, 47, -3805 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:cat_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

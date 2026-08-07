@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Sprout_Of_Anguish3 Checked"
+            "text": "Sprout pf Anguish +3 Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the final tier of Maelihs' devotion relic"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1003003}"
         },
         "frame": "task",
         "show_toast": false,

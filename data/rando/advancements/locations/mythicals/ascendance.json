@@ -4,10 +4,10 @@
             "text": "Ascendance Checked"
         },
         "description": {
-            "text": ""
+            "text": "Plundered Ascendance from the Moonlight Sanctum"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:llama_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

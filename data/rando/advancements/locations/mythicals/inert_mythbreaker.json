@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Inert_Mythbreaker Checked"
+            "text": "Inert Mythbreaker Checked"
         },
         "description": {
-            "text": ""
+            "text": "Reunited the two long-lost halves of Inert Mythbreaker"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:blaze_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

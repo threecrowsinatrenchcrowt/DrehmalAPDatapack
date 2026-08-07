@@ -1,20 +1,21 @@
 {
     "display": {
         "title": {
-            "text": "Xor_Huul_Agony_Stone Checked"
+            "text": "Xor'huul Agony Stone Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the Stone of Agony at -1170, 64, -4183 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1000020}"
         },
         "frame": "task",
         "show_toast": false,
         "announce_to_chat": false,
         "hidden": false
     },
-    "parent": "rando:locations/quest_items/quest_item_location_parent",
+    "parent": "rando:locations/quest_items/sanctum_agony_stone",
     "criteria": {
         "requirement": {
             "trigger": "minecraft:inventory_changed",

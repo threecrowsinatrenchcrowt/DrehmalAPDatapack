@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Dusk_Island_Tower Checked"
+            "text": "Island of Dusk Tower Checked"
         },
         "description": {
-            "text": ""
+            "text": "Warped from the Island of Dusk Tower at -2098, 120, -3812 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:red_mushroom_block"
         },
         "frame": "task",
         "show_toast": false,

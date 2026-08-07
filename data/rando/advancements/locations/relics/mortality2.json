@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Mortality2 Checked"
+            "text": "Mortality +2 Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the third tier of Voynahla's devotion relic"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1006002}"
         },
         "frame": "task",
         "show_toast": false,

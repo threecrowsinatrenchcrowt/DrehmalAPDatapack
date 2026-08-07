@@ -1,13 +1,14 @@
 {
     "display": {
         "title": {
-            "text": "Tall_Tower_Worry_Stone Checked"
+            "text": "Tall Tower Worry Stone Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the Stone of Worry at -3954, 215, 3561 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1000022}"
         },
         "frame": "task",
         "show_toast": false,

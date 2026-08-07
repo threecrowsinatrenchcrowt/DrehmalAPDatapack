@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Ultvas_Bowblade Checked"
+            "text": "Ultva's Bowblade Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Ultva's Bowblade at -3696, 76, -1199 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:rabbit_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,

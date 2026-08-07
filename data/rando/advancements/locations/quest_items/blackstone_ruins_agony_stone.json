@@ -1,20 +1,21 @@
 {
     "display": {
         "title": {
-            "text": "Blackstone_Ruins_Agony_Stone Checked"
+            "text": "Blackstone Ruins Agony Stone Checked"
         },
         "description": {
-            "text": ""
+            "text": "Obtained the Stone of Agony at 4139, 83, 4154 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:1000020}"
         },
         "frame": "task",
         "show_toast": false,
         "announce_to_chat": false,
         "hidden": false
     },
-    "parent": "rando:locations/quest_items/quest_item_location_parent",
+    "parent": "rando:locations/quest_items/yavhlix_agony_stone",
     "criteria": {
         "requirement": {
             "trigger": "minecraft:inventory_changed",

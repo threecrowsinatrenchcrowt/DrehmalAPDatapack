@@ -4,10 +4,10 @@
             "text": "Osteogenesis Checked"
         },
         "description": {
-            "text": ""
+            "text": "Found the legendary Osteogenesis at -1744, 118, 1882 in the overworld"
         },
         "icon": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:endermite_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,
