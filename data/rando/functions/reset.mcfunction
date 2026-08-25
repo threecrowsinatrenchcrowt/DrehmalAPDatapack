@@ -12,8 +12,6 @@ execute if score #relics rando_pools matches 1 run function rando:locations/modi
 
 #execute if score #region_locks rando_pools matches 1 run function rando:area_locks/spawn_region_markers
 
-function terminus:unlock_tower/capital_valley_unlock
-
 advancement grant @a only advancements:discoveries/root
 advancement grant @a only minecraft:drehmal/root
 advancement grant @a only minecraft:lodahr/root
