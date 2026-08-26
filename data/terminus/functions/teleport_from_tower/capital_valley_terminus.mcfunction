@@ -8,5 +8,5 @@ function terminus:teleport_from_tower/text_check
 
 # Modified for Terminus tower randomizer
 execute if score #terminus_towers rando_pools matches 0 if score capital_valley towers matches 0 run function terminus:unlock_tower/capital_valley_unlock
-# execute if score #terminus_towers rando_pools matches 1 run advancement grant @s only rando:locations/terminus_towers/capital_valley_tower
+execute if score #terminus_towers rando_pools matches 1 run advancement grant @s only rando:locations/terminus_towers/capital_valley_tower
 function players:music/reset
